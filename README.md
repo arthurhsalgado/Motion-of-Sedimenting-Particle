@@ -90,4 +90,15 @@ $$
 
 ## Numerical Methods
 
-## Results
+The equations of motion for a sedimenting particle were anaylised in terms of the analytical solution for the linear analysis, and in terms of the Reynolds number for the non-linear case.
+
+Both scenarios were analyzed by the Runge-Kutta 4th order numerical method, where the initial conditions were:
+
+$$
+y_0 = 0, t_0 = 0
+$$
+
+For the linear case, the function was:
+
+
+
