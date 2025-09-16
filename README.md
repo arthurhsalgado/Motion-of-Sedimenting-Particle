@@ -98,7 +98,16 @@ $$
 y_0 = 0, t_0 = 0
 $$
 
-For the linear case, the function was:
+For the linear case, the function is:
 
+$$
+y' = (-y+1)/St
+$$
+
+For the non linear case, the function is:
+
+$$
+y' = (-y \frac{-3}{8} Re_s y^2 + 1)/St
+$$
 
 
